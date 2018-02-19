@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+main {
+    margin: 0 auto;
+    padding-bottom: 10%;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+form {
+    position: absolute;
+}
+
+#welcomeText {
+    text-align: center;
+    font-size: 27px;
+}
+
+#winner {
+    text-align: center;
+    font-size: 23px;
+}
+
+#output {
+    text-align: center;
+    font-size: 23px;
+}
+
+#button {
+    float: center;
+    padding: 45px 800px;
+}
+
+#puppies {
+    display: block;
+    margin: 0 auto;
+}
